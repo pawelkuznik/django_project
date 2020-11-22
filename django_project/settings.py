@@ -25,7 +25,7 @@ SECRET_KEY = '&2kupk4apr54tmp+d*@0sv%b45ja^dqs-hz7_n6-0c=aezurl!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['djangoblogapppawelkuznik.herokuapp.com']
 
 
 # Application definition
