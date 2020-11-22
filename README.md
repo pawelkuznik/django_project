@@ -14,3 +14,7 @@ Funkcjonalności:
 4. Przeglądanie profilu/ów
 
 Aplikacja dostępna pod adresem:
+https://djangoblogapppawelkuznik.herokuapp.com/
+
+Niestety jest problem z migracją bazy danych na Heroku i po próbie rejestracji itp widoczne są błędy
+jak to wygląda lokalnie - folder screenshots
